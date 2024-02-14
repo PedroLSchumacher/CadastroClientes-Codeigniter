@@ -1,0 +1,40 @@
+form {
+    font-size: 18px;
+    width: 100%;
+}
+
+.container {
+    margin: 40px;
+    padding: 20px;
+    width: 50%;
+}
+
+.card {
+    border: none;
+}
+
+.card-header h2 {
+    margin: 0;
+    padding: 1rem;
+    font-size: 1.5rem;
+}
+
+
+.card-body {
+    padding: 2rem;
+}
+
+.btn {
+    margin-right: 10px;
+    font-size: 14px; 
+    padding: 8px 20px; 
+    width: 150px; 
+}
+
+.input_info {
+    width: calc(100% - 20px);
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
